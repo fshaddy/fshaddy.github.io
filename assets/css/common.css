@@ -82,7 +82,7 @@ body {
 }
 
 .authors {
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 @media (max-width: 767px) {
