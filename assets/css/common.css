@@ -100,3 +100,15 @@ body {
         text-align: center;
     }
 }
+
+.paper-summary {
+    border: 1px solid #ddd;
+    background-color: #f6f6f6; /* light gray background */
+    padding: 10px 15px;
+    margin: 10px 0 20px 0;
+    font-size: 14px;
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 4px;
+    padding-left: 2em; /* aligns with .research-header */
+}
