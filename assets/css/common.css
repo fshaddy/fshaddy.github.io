@@ -79,6 +79,8 @@ body {
     float: right;
     margin-bottom: 20px;
     margin-right: -15px;
+     max-width: 300px; 
+    height: auto;      
 }
 
 .authors {
