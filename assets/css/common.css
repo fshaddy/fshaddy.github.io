@@ -113,4 +113,8 @@ body {
     font-family: 'Open Sans', sans-serif;
     border-radius: 4px;
     padding-left: 2em; /* aligns with .research-header */
+    line-height: 1.4; /* NEW: matches the citation text spacing */
+}
+.paper-summary p {
+    margin: 0;
 }
