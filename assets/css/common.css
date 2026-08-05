@@ -85,11 +85,15 @@ body {
    ===================================================================== */
 
 .page-header {
-    margin-top: 0;
+    margin-top: 40px;
     border-bottom-width: 2px;
     font-size: 18px;
     line-height: 1;
     text-align: center;
+}
+
+.page-header:first-child {
+    margin-top: 0;
 }
 
 .research-header {
